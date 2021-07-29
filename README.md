@@ -1,2 +1,2 @@
-# django_forum
+# Django-App
 my Django app project

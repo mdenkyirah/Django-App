@@ -1,2 +1,2 @@
-# Django-forum
-my Django app project
+# django_forum
+my django app project
